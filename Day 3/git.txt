@@ -12,3 +12,5 @@ Git Branching
 4. git checkout -b <branch_name>
     2 and 3 step can be done from this. makes new branch and goes to that branch
 
+5. git merge branch1
+    
