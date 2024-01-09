@@ -11,3 +11,7 @@ Pull Request
 8. Merge the provided
 9. go to main branch in the local
 10. git pull
+
+
+git clone <ssh-link>
+    write code in cmd and clone the repo 
