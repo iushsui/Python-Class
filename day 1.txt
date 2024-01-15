@@ -1,0 +1,19 @@
+step 1: enter a number, lets say x
+step 2: if x%2==0, number is even, else, number is odd
+step 3: print x
+
+
+1. take a num
+2. if (num%3 == 0  && num%5 == 0){
+	print "fizzbuzz";
+   }elseif (num%5 == 0){
+	print "buzz";
+   }elseif (num%3 == 0){
+	print "fizz";
+   }else{
+	print num;
+   }
+
+design pattern
+dsa
+leetcode
